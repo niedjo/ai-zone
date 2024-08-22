@@ -102,8 +102,8 @@ Assurez-vous d'avoir installé les outils suivants sur votre machine :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/ai_zone.git
-   cd ai_zone
+   git clone https://github.com/niedjo/ai-zone.git
+   cd ai-zone
    ```
 
 2. Installez les dépendances :
@@ -130,11 +130,5 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](./LICENSE) pour p
 
 ## 📧 Contact
 
-Pour toute question, suggestion ou retour, veuillez contacter [votre-email@example.com](mailto:votre-email@example.com).
+Pour toute question, suggestion ou retour, veuillez contacter [niedjokuitche@gmail.com](mailto:niedjokuitche@gmail.com).
 ```
-
-### Remarques :
-- Assure-toi de remplacer les sections spécifiques comme les liens de dépôt GitHub et l'adresse e-mail par tes informations personnelles.
-- Si tu as des images ou des captures d'écran de l'application, il serait intéressant de les ajouter sous une section dédiée pour montrer l'interface de l'application.
-
-Ce `README.md` donne une vue d'ensemble complète de ton projet tout en restant accessible et facile à comprendre pour les contributeurs potentiels et les utilisateurs.
